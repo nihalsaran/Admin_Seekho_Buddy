@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:seekhobuddy/LoginPage.dart';
-import 'package:seekhobuddy/emailVerificationWaiting.dart';
-import 'package:seekhobuddy/dropdown_data.dart';
+import 'package:Adminseekhobuddy/LoginPage.dart';
+import 'package:Adminseekhobuddy/emailVerificationWaiting.dart';
+import 'package:Adminseekhobuddy/dropdown_data.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

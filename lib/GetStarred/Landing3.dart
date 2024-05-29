@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:seekhobuddy/LoginPage.dart';
+import 'package:Adminseekhobuddy/LoginPage.dart';
 
 void main() {
   runApp(LandingPage3());

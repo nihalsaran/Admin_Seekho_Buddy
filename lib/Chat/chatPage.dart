@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:seekhobuddy/Chat/chatUsersModel.dart';
-import 'package:seekhobuddy/Chat/conversationList.dart';
+import 'package:Adminseekhobuddy/Chat/chatUsersModel.dart';
+import 'package:Adminseekhobuddy/Chat/conversationList.dart';
 
 class ChatPage extends StatefulWidget {
   @override

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:seekhobuddy/AdminScreens/Profile-Admin.dart';
-import 'package:seekhobuddy/verification_history.dart';
+import 'package:Adminseekhobuddy/AdminScreens/Profile-Admin.dart';
+import 'package:Adminseekhobuddy/verification_history.dart';
 import 'package:intl/intl.dart';
 
 void main() async {

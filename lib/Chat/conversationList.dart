@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:seekhobuddy/Chat/chatDetailPage.dart';
+import 'package:Adminseekhobuddy/Chat/chatDetailPage.dart';
 
 // ignore: must_be_immutable
 class ConversationList extends StatefulWidget {

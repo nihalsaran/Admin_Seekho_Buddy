@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart'; // Add this import for SvgPicture
-import 'package:seekhobuddy/Notification.dart';
+import 'package:Adminseekhobuddy/Notification.dart';
 import 'footer.dart';
 import 'Chat/ChatPage-home.dart';
 import 'AdminScreens/Profile-Admin.dart';

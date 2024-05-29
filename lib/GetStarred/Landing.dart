@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:seekhobuddy/GetStarred/Landing2.dart';
+import 'package:Adminseekhobuddy/GetStarred/Landing2.dart';
 
 void main() {
   runApp(LandingPage());

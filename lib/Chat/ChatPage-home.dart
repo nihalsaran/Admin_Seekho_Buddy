@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:seekhobuddy/Chat/ChatPage.dart';
+import 'package:Adminseekhobuddy/Chat/ChatPage.dart';
 
 class ChatHomePage extends StatelessWidget {
   @override
